@@ -1,2 +1,3 @@
-# maven-parent
-Common Maven parent for granito.io projects
+# Maven Parent
+
+Common Maven parent for **granito.io** projects.
