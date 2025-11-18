@@ -4,8 +4,18 @@ permissions:
   contents: read
 
 on:
-  - push
-  - pull_request
+  pull_request:
+    types:
+      - opened
+      - reopened
+  push:
+    branches:
+      - main
+      - release/*
+      - feature/*
+  release:
+    types:
+      - published
 
 jobs:
   build:
