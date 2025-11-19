@@ -16,6 +16,7 @@
         <license>
             <name>MIT License</name>
             <url>https://opensource.org/license/mit</url>
+            <distribution>repo</distribution>
         </license>
     </licenses>
 
@@ -26,12 +27,15 @@
         <tag>main</tag>
     </scm>
 
+    <organization>
+        <name>Granito</name>
+        <url>https://github.com/granito-source</url>
+    </organization>
+
     <developers>
         <developer>
             <name>Alexei Yashkov</name>
             <email>alexei.yashkov@granito.io</email>
-            <organization>Granito</organization>
-            <organizationUrl>https://github.com/granito-source</organizationUrl>
         </developer>
     </developers>
 
