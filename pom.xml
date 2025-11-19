@@ -24,7 +24,7 @@
     <scm>
         <connection>scm:git:git://github.com/granito-source/maven-parent.git</connection>
         <developerConnection>scm:git:ssh://github.com:granito-source/maven-parent.git</developerConnection>
-        <url>http://github.com/granito-source/maven-parent</url>
+        <url>https://github.com/granito-source/maven-parent</url>
         <tag>main</tag>
     </scm>
 
