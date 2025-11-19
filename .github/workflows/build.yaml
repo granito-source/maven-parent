@@ -36,7 +36,7 @@ jobs:
       - name: Configure command
         id: command
         run: |
-          set -eu
+          set -u
           case "${{ github.ref }}" in
           refs/heads/main | refs/heads/release/*)
               echo "args=deploy" >>"$GITHUB_OUTPUT"
