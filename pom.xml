@@ -4,7 +4,7 @@
 
     <groupId>io.granito.maven</groupId>
     <artifactId>maven-parent</artifactId>
-    <version>2</version>
+    <version>3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Maven Parent</name>
@@ -24,7 +24,7 @@
         <connection>scm:git:git://github.com/granito-source/maven-parent.git</connection>
         <developerConnection>scm:git:ssh://github.com:granito-source/maven-parent.git</developerConnection>
         <url>https://github.com/granito-source/maven-parent</url>
-        <tag>v2</tag>
+        <tag>main</tag>
     </scm>
 
     <organization>
